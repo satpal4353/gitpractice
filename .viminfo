@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1635144724,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -23,7 +25,18 @@
 # Registers:
 
 # File marks:
+'0  1  42  ~/abc
+|4,48,1,42,1635144724,"~/abc"
 
 # Jumplist (newest first):
+-'  1  42  ~/abc
+|4,39,1,42,1635144724,"~/abc"
 
 # History of marks within files (newest to oldest):
+
+> ~/abc
+	*	1635144722	0
+	"	1	42
+	^	1	43
+	.	1	42
+	+	1	42
